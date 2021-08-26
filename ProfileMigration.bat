@@ -1,0 +1,1 @@
+msiexec.exe /i "C:\Temp\ForensiT\Migrate-WR2PREMIER.msi" /qb 
