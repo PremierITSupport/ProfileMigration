@@ -1,1 +1,1 @@
-msiexec.exe /i "C:\Temp\Migrate\Migrate-test27.msi" /qb
+msiexec.exe /i "C:\Temp\Migrate\Migrate-test27.exe" /qb
